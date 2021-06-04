@@ -1,5 +1,5 @@
 # wind_ts
-wind_ts is a software designed for simple and fast data analysis with time series data.
+wind_ts (www.windts.app) is a software designed for simple and fast data analysis with time series data.
 
 #### Errors and Bugs
 wind_ts is a work in progress. Please report errors or bugs in the Issues tab of this github repository. 
